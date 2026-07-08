@@ -1,0 +1,4 @@
+flask==3.1.3
+pymupdf==1.28.0
+pandukabhaya==1.0.1
+openpyxl==3.1.5
